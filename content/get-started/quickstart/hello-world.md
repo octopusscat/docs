@@ -133,6 +133,7 @@ In this final step, you will merge your `readme-edits` branch into the `main` br
 
 By completing this tutorial, you've learned to create a project and make a pull request on {% data variables.product.product_name %}.
 
+
 Here's what you accomplished in this tutorial:
 
 * Created an open source repository
